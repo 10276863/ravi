@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * {
+  background:linear-gradient(to right, rgb(236, 224, 224), rgb(206, 180, 206), rgb(223, 223, 180), rgb(141, 165, 141));
+  font-family: 'Roboto Condensed', sans-serif;
+
+} */
+/* body{
+  background: linear-gradient(to right, rgb(245,243,110),rgb(247, 202, 199));
+border: 1cm;
+padding: 0.5cm;
+} */
+
+.active{
+  color: ;
+  background:white;
+  
+  
+}
+#one{
+  height: 5cm;
+  width: 7cm;
+  margin-top: 1cm;
+}
+#log{
+  background-color: burlywood;
+  border: 0.2cm;
+  border-color: black;
+  height: 10cm;
+  width: 8cm;
+  padding-top: 0.3cm;
+  padding-inline-start: 0.5cm;
+  margin-top: 0.5cm;
+  border-radius: 0.5cm;
+    
+  
+
+}
+#sign{
+  background-color: burlywood;
+  border: 0.2cm;
+  border-color: black;
+  height: 12cm;
+  width: 10cm;
+  padding-top: 0.3cm;
+  padding-left: 3cm;
+  padding-inline-start: 0.5cm;
+  margin-top: 1cm;
+  border-radius: 0.5cm;
+  margin-left: 12cm;
+    
+
+}
+
+
+
+#three{
+  background-color:rgb(246, 248, 149);
+
+  }
+
+.main1 {
+  color: rgb(46, 54, 54); 
+  
+  
+}
+#main2 {
+  color: blue;
+  
+}
+h2 {
+  color: blueviolet;
+}
+
+.border{
+  border-top: 0.5cm;
+  border-top-color: red;
+  
+  padding: 1cm;
+  -ms-flex-item-align: auto;
+}
+#log{
+  background-color: burlywood;
+  border: 0.2cm;
+  border-color: black;
+  height: 12cm;
+  width: 10cm;
+  padding-top: 0.3cm;
+  padding-left: 3cm;
+  padding-inline-start: 0.5cm;
+  margin-top: 1cm;
+  border-radius: 0.5cm;
+  margin-left: 12cm;
+    
+
+}

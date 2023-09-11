@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ravi/static/css/main.82b4e865.css",
+    "main.js": "/ravi/static/js/main.022d57c9.js",
+    "static/js/787.d3befce1.chunk.js": "/ravi/static/js/787.d3befce1.chunk.js",
+    "static/media/postal.png": "/ravi/static/media/postal.1df72849cba1b7d703fc.png",
+    "index.html": "/ravi/index.html",
+    "main.82b4e865.css.map": "/ravi/static/css/main.82b4e865.css.map",
+    "main.022d57c9.js.map": "/ravi/static/js/main.022d57c9.js.map",
+    "787.d3befce1.chunk.js.map": "/ravi/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82b4e865.css",
+    "static/js/main.022d57c9.js"
+  ]
+}
